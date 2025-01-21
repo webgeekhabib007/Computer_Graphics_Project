@@ -1,0 +1,124 @@
+﻿  CG_final_project.cpp
+C:\Users\HP\source\repos\CG_final_project\basic_camera.h(62,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cone.h(81,54): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cone.h(101,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(81,58): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(100,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(132,72): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(132,72): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(132,72): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(132,72): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(132,72): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(134,72): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(134,72): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(134,72): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(134,72): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(134,72): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(135,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(135,43): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(135,43): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(135,43): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(135,43): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(137,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(137,43): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(137,43): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(137,43): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(137,43): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(142,80): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(142,80): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(142,80): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(142,80): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(142,80): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(144,80): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(144,80): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(144,80): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(144,80): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(144,80): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(145,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(145,43): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(145,43): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(145,43): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(145,43): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(147,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(147,43): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(147,43): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(147,43): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(147,43): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(152,72): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(152,72): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(152,72): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(152,72): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(152,72): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(154,72): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(154,72): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(154,72): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(154,72): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(154,72): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(155,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(155,43): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(155,43): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(155,43): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(155,43): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(157,43): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(157,43): warning C4244:         with
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(157,43): warning C4244:         [
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(157,43): warning C4244:             _Ty=float
+C:\Users\HP\source\repos\CG_final_project\cylinder.h(157,43): warning C4244:         ]
+  (compiling source file 'CG_final_project.cpp')
+  
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(55,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(234,44): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(234,24): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(237,14): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(248,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(255,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(256,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(379,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(379,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(721,67): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(721,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(721,59): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(733,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(733,57): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(733,53): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(737,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(738,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(1183,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(1188,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(1193,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(1198,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(1203,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\HP\source\repos\CG_final_project\CG_final_project.cpp(1208,21): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  CG_final_project.vcxproj -> C:\Users\HP\source\repos\CG_final_project\x64\Debug\CG_final_project.exe
